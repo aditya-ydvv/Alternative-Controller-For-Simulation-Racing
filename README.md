@@ -1,4 +1,4 @@
-# Alternative Racing Game Controller
+# Alternative Controller for Simulation Racing Games
 
 ## Overview
 
